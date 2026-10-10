@@ -8,7 +8,8 @@
 - MSSV: 2A202602439
 - Email: 26ai.tuyennh3@vinuni.edu.vn
 - Link repo (fork): https://github.com/Tuyen2k47/K4-Track4-Day23-NguyenHoangTuyen-2A202602439-Sensor-Fusion
-- Commit hash nộp (`git rev-parse HEAD`): PENDING_COMMIT_HASH
+- Commit hash nộp (`git rev-parse HEAD`): 4771711d6ca73a754b64006a9710ef5966e93bcf
+
 
 ## Tóm tắt kết quả
 
